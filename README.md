@@ -1,5 +1,10 @@
 # InstaBot: Automated Instagram Profile Interaction
 
+
+
+https://github.com/user-attachments/assets/fe8a79ae-6ec1-495d-8fe4-9a63e44311b4
+
+
 This project uses Python and Selenium WebDriver to automate the following tasks on Instagram:
 
 - Login using a dummy account
